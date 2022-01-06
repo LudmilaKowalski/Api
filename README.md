@@ -4,7 +4,7 @@
 
 With a friend, we decided to created a website with an API. We want to train to use API, so we choose to create a pokedex.
 
-# Techno
+## Techno
 
 We used html and Javascript.
 
